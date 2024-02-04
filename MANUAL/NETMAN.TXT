@@ -1,0 +1,136 @@
+                Netman
+
+          Manual Version 1.0
+
+Sofia Engvall, Bj”rn Jegelius, G”ran Asklund
+
+
+
+     System requirements
+
+- 486SX 25MHz
+- VGA graphics
+
+
+     To hear sound
+
+Soundblaster
+If you have a Sound blaster Pro version 2 or higher
+and and have something like
+ SET BLASTER = A220 I5 D1 H5 P330 T6
+in your autoexec.bat you will be able to use the it.
+
+PC-speaker
+If you do not have a Sound blaster the game will use
+the PC-speaker.
+
+
+     To play with joystick
+
+If you press a joystick button when you get the question
+ Please center the joystick and press fire
+ or press any key on the keybord to disable joystick...
+you will be able to use the joystick during the game.
+You will still be able to use the keyboard.
+
+
+     Computer/game speed
+
+The game speed is calculated from the computer speed.
+If the game still runs to slow or to fast you can use
+the + and - buttons to adjust it.
+
+
+     The main menu
+
+* Start new game
+     Starts a new game.
+     If you have a game running it will be discarded.
+
+* Resume game
+     If you have a game running and wants to change
+     some settings you can go to the menu, change the
+      settings, and then return to the game through
+     "Resume game".
+     You can also use this to pause the game.
+
+* Sound...
+     Takes you to the sound menu which will be
+     explained later.
+
+* Network game...
+     Network game will be available in later versions.
+
+* Quit
+     Exits the game.
+
+At any time during the game you can press ESC to return
+to the Main menu.
+
+
+     The sound menu
+
+* Sound Blaster
+     Sound through Sound Blaster if you have one.
+
+  PC speaker
+     Sound through PC speaker.
+
+  No sound
+     Turns ALL sound off.
+
+* Music
+     Music is on.
+     Press enter / fire to turn off.
+
+  No music
+     Music is off.
+     Press enter / fire to turn on.
+
+* Dot sound
+     Dot sound is on.
+     Press enter / fire to turn off.
+
+  No dot sound
+     Dot sound is off.
+     Press enter / fire to turn on.
+
+
+     Playing the game
+
+When the game starts the ghosts are in their home. They are
+strong and starts to hunt the pacman (you).
+
+You are supposed to eat all the dot's on the level to go on to
+the next one, collecting different amounts of points for
+everything.
+To your assistance you have got the big dots. When you have
+eaten a big dot the ghosts become weak and you will be able to
+eat them (instead of the other way around).
+
+When you have eaten a ghost it will return to it's home and be
+strong again. This means that you only can eat each ghost once
+for every big dot.
+
+The "power" of the dot will not last for ever eather. If you
+eat a second big dot while you still have got some of the power
+of the old one. It will be replaced by the new (not add to it).
+
+
+     Points
+
+You get points for the most things you do:
+- Each ordinary dot gives you 10 points.
+- A big dot gives you 50 points.
+- When you eat a ghost the number of points you get depends 
+  on how many ghosts you have taken sence you ate a big dot. 
+  The first ghost gives you 100 points, the second 200, the 
+  third 400 and the fourth and last possible 800.
+- When you have finished a level you get 2000 points.
+- When you have went true all available levels you get a
+  bonus of 10000 points before you continue...
+
+In the upper right corner of the screen you can see how many
+lifes you have, how many points you have and how many dots you
+have left to eat on the level.
+
